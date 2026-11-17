@@ -1,0 +1,29 @@
+{
+  "name": "city24",
+  "url": "https://www.city24.ee/",
+  "status": 200,
+  "loadMs": 8013,
+  "metrics": {
+    "title": "Kinnisvaraportaal City24.ee",
+    "lang": "et",
+    "scrollWidth": 375,
+    "innerWidth": 375,
+    "images": 68,
+    "imgsNoAlt": 24,
+    "inputs": 23,
+    "unlabeled": 2,
+    "emptyLinks": 27,
+    "emptyButtons": 49,
+    "dupIds": [
+      ""
+    ],
+    "bodyText": "Lisa kuulutus Kinnisvaraportaal City24.ee Müük Üür Korter Maakond - AVA TÄPSEM OTSING OTSI Lemmikud Minu otsingud Lisa kuulutus Kliendipäevad Uusarendused Päring maakleritele Uudised Otsi maaklerit Ot"
+  },
+  "consoleErrors": [
+    "requestStorageAccess: Permission denied."
+  ],
+  "pageErrors": [],
+  "failed": [
+    "net::ERR_BLOCKED_BY_ORB https://static.img-city24.ee/user_logo/10/5669/3877635669.avif"
+  ]
+}

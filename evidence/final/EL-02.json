@@ -1,0 +1,30 @@
+{
+  "defect": "Skip-link ei vii põhisisu juurde",
+  "firstFocus": {
+    "tag": "EDS-HEADER-NAV-SECTOR-LINK",
+    "id": "",
+    "text": "Liigu edasi põhisisu juurde",
+    "href": "/#skip-to-main-content",
+    "scrollY": 0
+  },
+  "afterFirst": {
+    "tag": "A",
+    "id": "skip-to-main-content",
+    "text": "Põhisisu algus",
+    "href": "#",
+    "hash": "#skip-to-main-content",
+    "scrollY": 105
+  },
+  "afterSecond": {
+    "tag": "A",
+    "id": "skip-to-main-content",
+    "href": "#",
+    "hash": "#skip-to-main-content",
+    "scrollY": 105
+  },
+  "logs": [
+    "HTTP 404 https://www.elisa.ee/themes/elisa/assets/img/bg01.png",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "PAGEERROR Error: Syntax error, unrecognized expression: [name=]"
+  ]
+}

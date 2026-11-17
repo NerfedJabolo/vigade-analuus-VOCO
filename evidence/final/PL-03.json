@@ -1,0 +1,11 @@
+{
+  "defect": "Ühemärgiline otsing ei anna tagasisidet",
+  "input": "a",
+  "url": "https://www.piletilevi.ee/",
+  "body": "ET Kontakt Korraldajale Uudised Info: +372 6248 032 Vali riik Piletilevi kinkepilet Kõik Muusika Teater Sport Festivalid Kinkekaardid Kogupere Hingele PÖFF Muuseumid Otsi kaardilt 1/13 Kinkepilet Piletilevi kinkepilet on parim kingitus Osta pilet 2/13 P 22.11.2026 - P 20.12.2026 Alexela Kontserdimaj",
+  "alerts": [],
+  "logs": [
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

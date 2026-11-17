@@ -1,0 +1,17 @@
+{
+  "defect": "Otsinguväljal Enter ei käivita otsingut",
+  "beforeUrl": "https://www.elisa.ee/",
+  "afterUrl": "https://www.elisa.ee/",
+  "overlayVisible": false,
+  "afterEnter": {
+    "url": "https://www.elisa.ee/",
+    "overlay": true,
+    "active": "INPUT",
+    "value": "iphone"
+  },
+  "clickMoreUrl": "https://www.elisa.ee/et/otsing?search=iphone",
+  "logs": [
+    "HTTP 404 https://www.elisa.ee/themes/elisa/assets/img/bg01.png",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()"
+  ]
+}

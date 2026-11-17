@@ -1,0 +1,9 @@
+{
+  "defect": "Ostukorvi ikoonnupu aria-label on ingliskeelne",
+  "host": "<eds-header-nav-icon-button id=\"cart\" slot=\"actions\" text-aria-label=\"Shopping cart, 0 items in cart\" badge-content=\"\" role=\"listitem\" target=\"_self\" class=\"hydrated\" style=\"outline: rgb(255, 0, 0) solid 4px; outline-offset: 2px;\">\n      <eds-icon name=\"basket-shopping-light\" role=\"img\" type=\"system",
+  "inner": {
+    "aria": "Shopping cart, 0 items in cart",
+    "html": "<button class=\"eds-header-nav-icon-button\" aria-label=\"Shopping cart, 0 items in cart\"><div class=\"eds-header-nav-icon-button__inner\" aria-hidden=\"true\"><slot></slot></div></button>"
+  },
+  "logs": []
+}

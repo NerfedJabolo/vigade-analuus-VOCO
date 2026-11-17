@@ -1,0 +1,4 @@
+[debug] [oaiq] event queued {eventName: openai::sdk_init, eventId: cfb7911f-bad0-4f84-abe0-10600cff40b4, pendingEventCount: 1, initialized: true}
+[debug] [oaiq] event queued {eventName: oai::diagnostic, eventId: 07b58e5a-9147-436b-b0fc-8f2933fe1047, pendingEventCount: 2, initialized: true}
+[debug] [oaiq] event queued {eventName: page_viewed, eventId: 6b757556-ac33-44fb-8dc3-19c6da3dc78a, pendingEventCount: 3, initialized: true}
+[debug] [oaiq] SDK config telemetry queued {config: automatic_advanced_matching, outcome: enabled}

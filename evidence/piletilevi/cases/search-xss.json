@@ -1,0 +1,14 @@
+{
+  "q": "<script>alert(1)</script>",
+  "info": {
+    "url": "https://www.piletilevi.ee/search?query=%3Cscript%3Ealert(1)%3C/script%3E",
+    "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+    "text": "ET Kontakt Korraldajale Uudised Info: +372 6248 032 Vali riik Piletilevi kinkepilet Kõik Muusika Teater Sport Festivalid Kinkekaardid Kogupere Hingele PÖFF Muuseumid Otsi kaardilt Tulemused: Üritused 0 Korraldajad 0 Toimumiskohad 0 Uudised 0 “<script>alert(1)</script>” Toimumise aeg Asukohad Toimumiskohad 0 tulemust Asjakohasuse alusel Nende filtrite järgi sündmusi ei leitud Lähtesta filtrid Liitu uudiskirjaga Ole kursis värskete kultuuri- ja meelelahutussündmustega! Liitun Liitudes nõustud meie privaatsustingimustega. Jälgi meid: Korraldajale Reklaamiteenused Piletikontroll Tellimusleht Piletiprogramm (aruandlus) LOGOD – Firmagraafika Piletimüügiteenuse üldtingimused Administraatoritele Ettevõttest Vabad töökohad Kontakt / Inimesed Meist Kinkepilet Isikuandmete töötlemise üldpõhimõtted Piletilevi toetab Kuidas osta Kättetoimetusviisid Teenustasud Piletipoe kasutamise tingimused Piletid ",
+    "resultLine": "Tulemused: Üritused 0 Korraldajad 0 Toimumiskohad 0 Uudised 0 “<script>alert(1)</script>” Toimumise aeg Asukohad Toimumiskohad 0 tulemust Asjakohasuse alusel Nende filtrite järgi sündmusi ei leitud Lähtesta fil",
+    "alert": []
+  },
+  "logs": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "RESP 200 https://www.piletilevi.ee/api/v1/search?query=%3Cscript%3Ealert(1)%3C%2Fscript%3E&language=et&page=1&pageSize=36&sortBy=score&sortOrder=DESC"
+  ]
+}

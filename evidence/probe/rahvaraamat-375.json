@@ -1,0 +1,72 @@
+{
+  "title": "Rahva Raamat | Raamatud, E-raamatud, E-lugerid, Filmid, Muusika",
+  "scrollWidth": 375,
+  "innerWidth": 375,
+  "unnamed": [],
+  "imgsNoAlt": [],
+  "dupIds": [],
+  "overflow": [
+    {
+      "tag": "div",
+      "cls": "slick-track",
+      "right": 1706
+    },
+    {
+      "tag": "div",
+      "cls": "slick-slide",
+      "right": 701
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "right": 701
+    },
+    {
+      "tag": "div",
+      "cls": "styles_slide__IiMDt",
+      "right": 701
+    },
+    {
+      "tag": "a",
+      "cls": "styles_slideWrapper__9ct15",
+      "right": 701
+    },
+    {
+      "tag": "picture",
+      "cls": "",
+      "right": 701
+    },
+    {
+      "tag": "img",
+      "cls": "styles_image__LCbyu",
+      "right": 701
+    },
+    {
+      "tag": "div",
+      "cls": "slick-slide slick-cloned",
+      "right": 1036
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "right": 1036
+    },
+    {
+      "tag": "div",
+      "cls": "styles_slide__IiMDt",
+      "right": 1036
+    },
+    {
+      "tag": "a",
+      "cls": "styles_slideWrapper__9ct15",
+      "right": 1036
+    },
+    {
+      "tag": "picture",
+      "cls": "",
+      "right": 1036
+    }
+  ],
+  "unlabeledInputs": [],
+  "errors": []
+}

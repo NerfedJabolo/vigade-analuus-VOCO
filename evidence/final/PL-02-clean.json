@@ -1,0 +1,19 @@
+{
+  "defect": "Uudiskirja vea korral fookus ei liigu ja veateade pole live-regioon",
+  "active": {
+    "tag": "BUTTON",
+    "text": "Liitun"
+  },
+  "email": {
+    "type": "text",
+    "ariaInvalid": "true",
+    "describedby": "v-0-4-1-error",
+    "labels": 0
+  },
+  "error": {
+    "id": "v-0-4-1-error",
+    "role": null,
+    "live": null,
+    "text": "Palun sisesta e-posti aadress korrektses vormingus: nimi@naide.ee"
+  }
+}

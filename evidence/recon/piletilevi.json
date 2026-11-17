@@ -1,0 +1,28 @@
+{
+  "name": "piletilevi",
+  "url": "https://www.piletilevi.ee/",
+  "status": 200,
+  "loadMs": 6632,
+  "metrics": {
+    "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+    "lang": "et-EE",
+    "scrollWidth": 375,
+    "innerWidth": 375,
+    "images": 161,
+    "imgsNoAlt": 0,
+    "inputs": 11,
+    "unlabeled": 2,
+    "emptyLinks": 1,
+    "emptyButtons": 10,
+    "dupIds": [],
+    "bodyText": "Nõusolek Üksikasjad Teave Sellel veebilehel kasutatakse küpsiseid AS Piletilevi PLG üksused kasutavad küpsiseid isikupärastatud teabe esitamiseks meie toodete ja teenuste kohta ja et parandada meie ve"
+  },
+  "consoleErrors": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ],
+  "pageErrors": [],
+  "failed": [
+    "net::ERR_BLOCKED_BY_ORB https://www.googletagmanager.com/gtag/js?id=G-5ZHYQRXF3L",
+    "net::ERR_BLOCKED_BY_ORB https://www.googletagmanager.com/gtag/js?id=G-5ZHYQRXF3L&cx=c&gtm=4e6bg0&sign=089e4075d1b8129491b219cad495bba3b1172381e461c8212a12b6d3f6076e46_20261117"
+  ]
+}

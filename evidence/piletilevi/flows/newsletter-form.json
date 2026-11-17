@@ -1,0 +1,7 @@
+[
+  {
+    "outer": "<input id=\"v-0-4-1\" type=\"text\" name=\"email\" placeholder=\"E-mail\" class=\"appearance-none placeholder:text-dimmed disabled:cursor-not-allowed disabled:opacity-75 transition-colors relative block focus:outline-hidden focus:ring-2 focus:ring-on-brand di",
+    "form": "<form id=\"v-0-4-0\" method=\"post\" class=\"\" data-cy=\"newsletter-form\"><div data-orientation=\"vertical\" data-slot=\"root\" class=\"text-sm\"><div data-slot=\"wrapper\" class=\"\"><!----><!----></div><div class=\"\"><div class=\"flex flex-col gap-4 w-full\"><div data-slot=\"root\" class=\"relative inline-flex items-center w-full\"><input id=\"v-0-4-1\" type=\"text\" name=\"email\" placeholder=\"E-mail\" class=\"appearance-none placeholder:text-dimmed disabled:cursor-not-allowed disabled:opacity-75 transition-colors relative block focus:outline-hidden focus:ring-2 focus:ring-on-brand disabled:text-on-disabled gap-1.5 sm:text-body-sm ring-inset ring-accented bg-surface outline-primary/25 focus-visible:outline-3 focus-visible:ring-on-brand md:text-body-sm w-full h-10 border border-solid border-on-surface ring-0 rounded-sm px-3 py-2.5 text-body-sm text-on-surface-light\" autocomplete=\"off\" aria-invalid=\"false\" data-slot=",
+    "labels": []
+  }
+]

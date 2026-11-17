@@ -1,0 +1,43 @@
+{
+  "defect": "Ostukorvi ikoonlink ja karusselli nooled on nimeta",
+  "cart": {
+    "html": "<a href=\"/checkout\" class=\"leading-[0] hidden sm:block\" data-cy=\"shopping-cart\" style=\"outline: rgb(255, 0, 0) solid 4px; outline-offset: 2px;\"><!--[--><!--[--><span data-state=\"closed\" data-grace-area-trigger=\"\" class=\"relative inline-flex leading-[0]\"><div data-slot=\"root\" class=\"justify-center shrink-0 relative inline-flex items-start leading-[0]\"><span class=\"iconify i-plg:shopping-cart text-o",
+    "aria": null,
+    "text": ""
+  },
+  "arrows": [
+    {
+      "id": "button-prev402",
+      "aria": null
+    },
+    {
+      "id": "button-next402",
+      "aria": null
+    },
+    {
+      "id": "button-prev399",
+      "aria": null
+    },
+    {
+      "id": "button-next399",
+      "aria": null
+    },
+    {
+      "id": "button-prev382",
+      "aria": null
+    },
+    {
+      "id": "button-next382",
+      "aria": null
+    },
+    {
+      "id": "button-prev384",
+      "aria": null
+    },
+    {
+      "id": "button-next384",
+      "aria": null
+    }
+  ],
+  "arrowsCount": 8
+}

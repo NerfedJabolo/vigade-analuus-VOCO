@@ -1,0 +1,240 @@
+{
+  "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "unnamed": [
+    {
+      "tag": "a",
+      "cls": "leading-[0] hidden sm:block",
+      "href": "/checkout",
+      "html": "<a href=\"/checkout\" class=\"leading-[0] hidden sm:block\" data-cy=\"shopping-cart\"><!--[--><!--[--><span data-state=\"closed\" data-grace-area-trigger=\"\" class=\"rela"
+    },
+    {
+      "tag": "button",
+      "cls": "items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allo",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" data-v-d5314d58=\"\" class=\"items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shr"
+    },
+    {
+      "tag": "button",
+      "cls": "items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allo",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" data-cy=\"button-next\" data-v-d5314d58=\"\" class=\"items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev402\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next402\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev399\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next399\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 j"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev382\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next382\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev384\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center disabled:cursor-not-allowed aria-disabled:cur",
+      "href": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next384\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transiti"
+    }
+  ],
+  "imgsNoAlt": [
+    "https://cms-i.piletilevi.ee/i/height=750/assets/96e2ec87-648b-4f4f-8a04-43cac7a2f76d"
+  ],
+  "dupIds": [],
+  "overflow": [
+    {
+      "tag": "div",
+      "cls": "swiper-slide overflow-hidden text-body-lg rounded-2xl flex f",
+      "right": 2716
+    },
+    {
+      "tag": "div",
+      "cls": "sm:aspect-[22/7] relative w-full max-sm:aspect-[23/29]",
+      "right": 2716
+    },
+    {
+      "tag": "a",
+      "cls": "block relative w-full h-full",
+      "right": 2716
+    },
+    {
+      "tag": "img",
+      "cls": "absolute inset-0 block w-full h-full object-cover object-rig",
+      "right": 2716
+    },
+    {
+      "tag": "div",
+      "cls": "single__fraction block absolute top-4 right-4 left-auto w-au",
+      "right": 2700
+    },
+    {
+      "tag": "div",
+      "cls": "pt-4 px-4 pb-6 sm:p-8 bg-surface-dark",
+      "right": 2716
+    },
+    {
+      "tag": "a",
+      "cls": "flex justify-between items-center text-on-surface-dark hover",
+      "right": 2684
+    },
+    {
+      "tag": "div",
+      "cls": "opacity-100 transition-all duration-500 ease-in flex flex-co",
+      "right": 2684
+    },
+    {
+      "tag": "div",
+      "cls": "h-5 flex items-center gap-4 sm:gap-8 min-w-0",
+      "right": 2684
+    },
+    {
+      "tag": "span",
+      "cls": "flex items-center font-semibold text-body-sm sm:text-body-md",
+      "right": 1668
+    },
+    {
+      "tag": "span",
+      "cls": "iconify i-plg:notepad-list w-3.5 h-3.5 mr-1.5 shrink-0",
+      "right": 1442
+    },
+    {
+      "tag": "span",
+      "cls": "truncate",
+      "right": 1668
+    }
+  ],
+  "unlabeledInputs": [
+    {
+      "type": "text",
+      "id": "",
+      "name": "searchInput",
+      "placeholder": "Otsi üritust, esinejat, toimumiskohta"
+    },
+    {
+      "type": "text",
+      "id": "v-0-4-1",
+      "name": "email",
+      "placeholder": "E-mail"
+    }
+  ],
+  "errors": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

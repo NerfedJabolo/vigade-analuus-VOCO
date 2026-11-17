@@ -1,0 +1,13 @@
+{
+  "defect": "Tootelehel puudub H1 ja title on üldine",
+  "title": "Elisa iseteenindus",
+  "h1": [],
+  "h1Count": 0,
+  "productNameVisible": true,
+  "mainStart": "Apple iPhone Duo 512GB IPHONEDUO512GB Toode on laost otsas! Lisa võrdlusesse Vali makseviis Ilma teenuseta Järelmaksuga ",
+  "logs": [
+    "HTTP 404 https://www.elisa.ee/themes/elisa/assets/img/bg01.png",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "PAGEERROR Error: Syntax error, unrecognized expression: [name=]"
+  ]
+}

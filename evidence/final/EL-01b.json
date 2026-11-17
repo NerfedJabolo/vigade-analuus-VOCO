@@ -1,0 +1,8 @@
+{
+  "defect": "Enter ei käivita otsingut",
+  "before": "https://www.elisa.ee/",
+  "after": "https://www.elisa.ee/",
+  "active": "INPUT",
+  "value": "iphone",
+  "logs": []
+}

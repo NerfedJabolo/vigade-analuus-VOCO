@@ -1,0 +1,15 @@
+{
+  "defect": "Uudiskirja e-posti väli ja veateade ei ole programmiliselt seotud",
+  "url": "https://www.piletilevi.ee/",
+  "input": {
+    "type": "text",
+    "ariaInvalid": "false",
+    "ariaDescribedby": null,
+    "labels": 0,
+    "placeholder": "E-mail"
+  },
+  "errors": [],
+  "logs": [
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

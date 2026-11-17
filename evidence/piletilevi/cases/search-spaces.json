@@ -1,0 +1,14 @@
+{
+  "q": "   ",
+  "info": {
+    "url": "https://www.piletilevi.ee/search?query=",
+    "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+    "text": "ET Kontakt Korraldajale Uudised Info: +372 6248 032 Vali riik Piletilevi kinkepilet Kõik Muusika Teater Sport Festivalid Kinkekaardid Kogupere Hingele PÖFF Muuseumid Otsi kaardilt Tulemused: Üritused 2456 Korraldajad 280 Toimumiskohad 332 Uudised 72 Toimumise aeg Asukohad Toimumiskohad 2456 tulemust Asjakohasuse alusel Eesti Kontserdi kinkepilet Kinkepilet Osta pilet R 29.11.2019 - N 31.12.2026 Paks Margareeta muuseum-külastuskeskus / Музей Толстая Маргарита / Museum of Fat Margaret Pikk 70, Tallinn Osta pilet T 06.09.2022 - N 31.12.2026 Fotosessioon mõisakostüümides Anija mõisas Anija mõis Osta pilet T 06.09.2022 - N 31.12.2026 Fotosessioon Anija mõisas Anija mõis Osta pilet Eesti Noorsooteatri kinkepilet Eesti Noorsooteater Osta pilet K 10.05.2023 - N 31.12.2026 Park Minigolf Park Minigolf, Nautica Keskuse II korrus Osta pilet N 01.06.2023 - N 31.12.2026 Elamusgolfikeskuse külastus Ela",
+    "resultLine": "Tulemused: Üritused 2456 Korraldajad 280 Toimumiskohad 332 Uudised 72 Toimumise aeg Asukohad Toimumiskohad 2456 tulemust Asjakohasuse alusel Eesti Kontserdi kinkepilet Kinkepilet Osta pilet R 29.11.2019 - N 3",
+    "alert": []
+  },
+  "logs": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "RESP 200 https://www.piletilevi.ee/api/v1/search?query&language=et&page=1&pageSize=36&sortBy=date&sortOrder=ASC"
+  ]
+}

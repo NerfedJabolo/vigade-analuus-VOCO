@@ -1,0 +1,31 @@
+{
+  "name": "automationexercise",
+  "url": "https://automationexercise.com/",
+  "status": 200,
+  "loadMs": 8212,
+  "metrics": {
+    "title": "Automation Exercise",
+    "lang": "en",
+    "scrollWidth": 375,
+    "innerWidth": 375,
+    "images": 44,
+    "imgsNoAlt": 0,
+    "inputs": 291,
+    "unlabeled": 1,
+    "emptyLinks": 5,
+    "emptyButtons": 1,
+    "dupIds": [],
+    "bodyText": " Home  Products Cart Signup / Login Test Cases API Testing Video Tutorials Contact us AutomationExercise Full-Fledged practice website for Automation Engineers All QA engineer"
+  },
+  "consoleErrors": [
+    "Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS.",
+    "Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS.",
+    "Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS."
+  ],
+  "pageErrors": [],
+  "failed": [
+    "mixed-content http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100",
+    "mixed-content http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700",
+    "mixed-content http://fonts.googleapis.com/css?family=Abel"
+  ]
+}

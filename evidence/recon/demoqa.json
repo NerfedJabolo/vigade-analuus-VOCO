@@ -1,0 +1,23 @@
+{
+  "name": "demoqa",
+  "url": "https://demoqa.com/",
+  "status": 200,
+  "loadMs": 6793,
+  "metrics": {
+    "title": "demosite",
+    "lang": "en",
+    "scrollWidth": 388,
+    "innerWidth": 375,
+    "images": 2,
+    "imgsNoAlt": 1,
+    "inputs": 0,
+    "unlabeled": 0,
+    "emptyLinks": 1,
+    "emptyButtons": 0,
+    "dupIds": [],
+    "bodyText": "Elements Forms Alerts, Frame & Windows Widgets Interactions Book Store Application © 2013-2026 TOOLSQA.COM | ALL RIGHTS RESERVED."
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failed": []
+}

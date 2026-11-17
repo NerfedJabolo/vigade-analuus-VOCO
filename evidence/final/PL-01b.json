@@ -1,0 +1,38 @@
+{
+  "defect": "Ostukorvi ikoonlink ja karusselli nooled on nimeta",
+  "cart": {
+    "html": "<a href=\"/checkout\" class=\"leading-[0] hidden sm:block\" data-cy=\"shopping-cart\" style=\"outline: rgb(255, 0, 0) solid 4px; outline-offset: 2px;\"><!--[--><!--[--><span data-state=\"closed\" data-grace-area-trigger=\"\" class=\"relative inline-flex leading-[0]\"><div data-slot=\"root\" class=\"justify-center shrink-0 relative inline-flex items-start leading-[0]\"><span class=\"iconify i-plg:shopping-cart text-on-surface hover:text-on-surface-brand\" aria-hidden=\"true\" style=\"font-size:20px;\" data-allow-mismatc",
+    "aria": null,
+    "text": ""
+  },
+  "arrows": [
+    {
+      "id": "button-prev402",
+      "aria": null,
+      "text": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev402\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 justify-center rounde"
+    },
+    {
+      "id": "button-next402",
+      "aria": null,
+      "text": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next402\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 justify-center rounde"
+    },
+    {
+      "id": "button-prev399",
+      "aria": null,
+      "text": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev399\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 justify-center rounde"
+    },
+    {
+      "id": "button-next399",
+      "aria": null,
+      "text": "",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next399\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowed transition-colors shrink-0 justify-center rounde"
+    }
+  ],
+  "arrowsCount": 8,
+  "logs": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "elisa",
+  "url": "https://www.elisa.ee/",
+  "status": 200,
+  "loadMs": 7118,
+  "metrics": {
+    "title": "Eraklient | Elisa Eesti",
+    "lang": "et",
+    "scrollWidth": 375,
+    "innerWidth": 375,
+    "images": 6,
+    "imgsNoAlt": 0,
+    "inputs": 6,
+    "unlabeled": 2,
+    "emptyLinks": 0,
+    "emptyButtons": 0,
+    "dupIds": [
+      "content",
+      "skip-to-main-content",
+      "block-elisa-content"
+    ],
+    "bodyText": "Liigu edasi põhisisu juurde Ligipääsetavus ET Eraklient Äriklient Põhisisu algus ERAKLIENDI AVALEHT Ostes Xiaomi 18 Pro või Xiaomi 18 Pro Max saad kaasa Mijia kapselkohvimasina. Elisa Raamat Elisa Ela"
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failed": []
+}

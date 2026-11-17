@@ -1,0 +1,1076 @@
+{
+  "inputs": [
+    {
+      "type": "checkbox",
+      "id": "CybotCookiebotDialogBodyLevelButtonNecessary",
+      "name": "",
+      "placeholder": "",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyLevelButton CybotCookiebotDialogBodyLevelButto"
+    },
+    {
+      "type": "checkbox",
+      "id": "CybotCookiebotDialogBodyLevelButtonPreferences",
+      "name": "",
+      "placeholder": "",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyLevelButton CybotCookiebotDialogBodyLevelConse"
+    },
+    {
+      "type": "checkbox",
+      "id": "CybotCookiebotDialogBodyLevelButtonStatistics",
+      "name": "",
+      "placeholder": "",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyLevelButton CybotCookiebotDialogBodyLevelConse"
+    },
+    {
+      "type": "checkbox",
+      "id": "CybotCookiebotDialogBodyLevelButtonMarketing",
+      "name": "",
+      "placeholder": "",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyLevelButton CybotCookiebotDialogBodyLevelConse"
+    },
+    {
+      "type": "text",
+      "id": "",
+      "name": "searchInput",
+      "placeholder": "Otsi üritust, esinejat, toimumiskohta",
+      "aria": null,
+      "cls": "appearance-none disabled:cursor-not-allowed disabled:opacity-75 transi"
+    },
+    {
+      "type": "text",
+      "id": "v-0-4-1",
+      "name": "email",
+      "placeholder": "E-mail",
+      "aria": null,
+      "cls": "appearance-none placeholder:text-dimmed disabled:cursor-not-allowed di"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "aria": "Sulgege bänner",
+      "cls": "CybotCookiebotBannerCloseButton",
+      "html": "<button class=\"CybotCookiebotBannerCloseButton\" aria-label=\"Sulgege bänner\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" hei"
+    },
+    {
+      "text": "Luban ainult vajalikud küpsise",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyButton",
+      "html": "<button id=\"CybotCookiebotDialogBodyButtonDecline\" class=\"CybotCookiebotDialogBodyButton\" tabindex=\"0\" lang=\"et\">Luban ainult vaja"
+    },
+    {
+      "text": "Luban ainult valitud küpsised",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyButton",
+      "html": "<button id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection\" class=\"CybotCookiebotDialogBodyButton\" tabindex=\"0\" la"
+    },
+    {
+      "text": "Luban kõik küpsised",
+      "aria": null,
+      "cls": "CybotCookiebotDialogBodyButton",
+      "html": "<button id=\"CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll\" class=\"CybotCookiebotDialogBodyButton\" tabindex=\"0\" lang=\"et\">L"
+    },
+    {
+      "text": "ET",
+      "aria": null,
+      "cls": "items-center disabled:cursor-not-allowed aria-disa",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"reka-dropdown-menu-trigger-v-0-0-0\" aria-haspopup=\"menu\" aria-expanded=\"false\" data-sta"
+    },
+    {
+      "text": "Kontakt",
+      "aria": null,
+      "cls": "items-center disabled:cursor-not-allowed aria-disa",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"reka-dropdown-menu-trigger-v-0-1-0\" aria-haspopup=\"menu\" aria-expanded=\"false\" data-sta"
+    },
+    {
+      "text": "Vali riik",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"reka-dropdown-menu-trigger-v-0-2-0\" aria-haspopup=\"menu\" aria-expanded=\"false\" data-sta"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"reka-dropdown-menu-trigger-v-0-4\" aria-haspopup=\"menu\" aria-expanded=\"false\" data-state"
+    },
+    {
+      "text": "Otsi kaardilt",
+      "aria": null,
+      "cls": "items-center disabled:cursor-not-allowed aria-disa",
+      "html": "<button type=\"button\" data-slot=\"base\" data-cy=\"map-open-button\" class=\"items-center disabled:cursor-not-allowed aria-disabled:cur"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "items-center disabled:cursor-not-allowed aria-disa",
+      "html": "<button type=\"button\" data-slot=\"base\" data-v-d5314d58=\"\" class=\"items-center disabled:cursor-not-allowed aria-disabled:cursor-not"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "items-center disabled:cursor-not-allowed aria-disa",
+      "html": "<button type=\"button\" data-slot=\"base\" data-cy=\"button-next\" data-v-d5314d58=\"\" class=\"items-center disabled:cursor-not-allowed ar"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": "Osta pilet",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Osta pilet\" data-cy=\"top-banner-buy-button\" class=\"inline-flex items-center dis"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev402\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next402\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev399\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next399\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Liitun",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"submit\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev382\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next382\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "Osta pilet",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabled:cursor-not-allowe"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-prev384\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" id=\"button-next384\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disabl"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent ",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent ",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent ",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent ",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text"
+    },
+    {
+      "text": "",
+      "aria": "Tagasiside vorm",
+      "cls": "flex items-center justify-center p-[9px] gap-2.5 b",
+      "html": "<button type=\"button\" class=\"flex items-center justify-center p-[9px] gap-2.5 bg-surface rounded-full cursor-pointer shadow-floati"
+    },
+    {
+      "text": "",
+      "aria": "Kinni",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Kinni\" class=\"inline-flex items-center disabled:cursor-not-allowed aria-disable"
+    },
+    {
+      "text": "",
+      "aria": "Kinni",
+      "cls": "inline-flex items-center disabled:cursor-not-allow",
+      "html": "<button type=\"button\" data-slot=\"base\" aria-label=\"Kinni\" data-cy=\"ad-popover-close\" class=\"inline-flex items-center disabled:curs"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+      "aria": "Cookiebot autor Usercentrics - avaneb uues aknas"
+    },
+    {
+      "text": "Nõusolek",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Üksikasjad",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Teave",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Korraldajale",
+      "href": "https://korraldaja.piletilevi.ee",
+      "aria": null
+    },
+    {
+      "text": "Uudised",
+      "href": "/uudised",
+      "aria": null
+    },
+    {
+      "text": "Info: +372 6248 032",
+      "href": "/uldinfo/company/23-66-66/kontakt",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/checkout",
+      "aria": null
+    },
+    {
+      "text": "Piletilevi kinkepilet",
+      "href": "/piletid/GTZCDS4PHR/piletilevi-kinkepilet-kinkekaart-podarocnyj-bilet-piletilevi",
+      "aria": null
+    },
+    {
+      "text": "Kõik",
+      "href": "/piletid/koik",
+      "aria": null
+    },
+    {
+      "text": "Muusika",
+      "href": "/piletid/muusika",
+      "aria": null
+    },
+    {
+      "text": "Teater",
+      "href": "/piletid/teater",
+      "aria": null
+    },
+    {
+      "text": "Sport",
+      "href": "/piletid/sport",
+      "aria": null
+    },
+    {
+      "text": "Festivalid",
+      "href": "/piletid/festivalid",
+      "aria": null
+    },
+    {
+      "text": "Kinkekaardid",
+      "href": "/piletid/kinkekaardid",
+      "aria": null
+    },
+    {
+      "text": "Kogupere",
+      "href": "/piletid/kogupere",
+      "aria": null
+    },
+    {
+      "text": "Hingele",
+      "href": "/piletid/hingele",
+      "aria": null
+    },
+    {
+      "text": "PÖFF",
+      "href": "/piletid/poeff",
+      "aria": null
+    },
+    {
+      "text": "Muuseumid",
+      "href": "/piletid/muuseumid",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/piletid/GTZCDS4PHR/piletilevi-kinkepilet-kinkekaart-podarocnyj-bilet-piletilevi",
+      "aria": "Piletilevi kinkepilet on parim kingitus"
+    },
+    {
+      "text": "Kinkepilet\nPiletilevi kinkepilet on pari",
+      "href": "/piletid/GTZCDS4PHR/piletilevi-kinkepilet-kinkekaart-podarocnyj-bilet-piletilevi",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/search?query=sensantsioonilisel+ja+maagilisel",
+      "aria": "Nino Katamadze | Glenn Miller Orchestra | Strauss Magic Vienna Orchestra"
+    },
+    {
+      "text": "P 22.11.2026 - P 20.12.2026\nAlexela Kont",
+      "href": "/search?query=sensantsioonilisel+ja+maagilisel",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/ZB62AUD5IX/the-lord-of-the-rings-the-epic-stage-adventure",
+      "aria": "The Lord of the Rings – The Epic Stage Adventure"
+    },
+    {
+      "text": "E 22.11.2027 - N 25.11.2027\nAlexela Kont",
+      "href": "/series/ZB62AUD5IX/the-lord-of-the-rings-the-epic-stage-adventure",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/BZPBCA2UIH/26-poffi-noorte-ja-lastefilmide-festival-just-film",
+      "aria": "26. PÖFFi noorte- ja lastefilmide festival Just Film"
+    },
+    {
+      "text": "R 06.11.2026 - P 22.11.2026\nErinevates k",
+      "href": "/series/BZPBCA2UIH/26-poffi-noorte-ja-lastefilmide-festival-just-film",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/CY6HJQVSW2/lavita-ibu-world-championships-biathlon-otepaa-2027",
+      "aria": "LaVita IBU World Championships Biathlon Otepää 2027"
+    },
+    {
+      "text": "T 09.02.2027 - P 21.02.2027\nTehvandi Spo",
+      "href": "/series/CY6HJQVSW2/lavita-ibu-world-championships-biathlon-otepaa-2027",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/piletid/OLY2XUPL2C/eesti-laul-2027",
+      "aria": "Eesti Laul 2027"
+    },
+    {
+      "text": "L 30.01.2027\nUnibet Arena\nEesti Laul 202",
+      "href": "/piletid/OLY2XUPL2C/eesti-laul-2027",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/37T7YZDAI3/paul-neitsovi-joulukontsert-oo-kuunlavalgel",
+      "aria": "Paul Neitsovi jõulukontsert 'Öö küünlavalgel'"
+    },
+    {
+      "text": "K 16.12.2026 - K 23.12.2026\nErinevates k",
+      "href": "/series/37T7YZDAI3/paul-neitsovi-joulukontsert-oo-kuunlavalgel",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/piletid/ORUFK4ATZ4/kultuurikongress-parim-kaitse-on-kultuur",
+      "aria": "Kultuurikongress 'Parim kaitse on kultuur'"
+    },
+    {
+      "text": "P 29.11.2026\nEstonia kontserdisaal\nKultu",
+      "href": "/piletid/ORUFK4ATZ4/kultuurikongress-parim-kaitse-on-kultuur",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/QTPC4NVMYF/sven-grunbergi-lugu",
+      "aria": "Sven Grünbergi lugu"
+    },
+    {
+      "text": "N 19.11.2026 - L 21.11.2026\nErinevates k",
+      "href": "/series/QTPC4NVMYF/sven-grunbergi-lugu",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/B33SATH3X7/jaanus-rohumaa-lavastus-venus-karusnahas",
+      "aria": "Jaanus Rohumaa lavastus 'Venus karusnahas'"
+    },
+    {
+      "text": "N 19.11.2026 - P 18.04.2027\nErinevates k",
+      "href": "/series/B33SATH3X7/jaanus-rohumaa-lavastus-venus-karusnahas",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/piletid/koik?promoters=21-69-1073&sortOrder=date_asc&page=1",
+      "aria": "Rakvere Teatri uue aasta piletid müügil!"
+    },
+    {
+      "text": "Rakvere Teatri uue aasta piletid müügil!",
+      "href": "/piletid/koik?promoters=21-69-1073&sortOrder=date_asc&page=1",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/VKQHHDOLOS/taavi-peterson-vaiki-kui-void-urmas-alender-73",
+      "aria": "Taavi Peterson 'Vaiki kui võid' – Urmas Alender 73"
+    },
+    {
+      "text": "P 22.11.2026 - P 20.12.2026\nErinevates k",
+      "href": "/series/VKQHHDOLOS/taavi-peterson-vaiki-kui-void-urmas-alender-73",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "/series/QD6VDZEE4B/tallinna-loomaaia-retked-ohtuhamaruses-2026",
+      "aria": "Tallinna loomaaia 'Retked õhtuhämaruses' 2026"
+    },
+    {
+      "text": "L 19.12.2026\nTallinna Loomaaed\nTallinna ",
+      "href": "/series/QD6VDZEE4B/tallinna-loomaaia-retked-ohtuhamaruses-2026",
+      "aria": null
+    },
+    {
+      "text": "L 12.09.2026 - N 22.04.2027\nChicago 1933",
+      "href": "/series/V75PK5QAQH/chicago-1933-elamusohtud-elavast-muusikast-teatrietendusteni",
+      "aria": null
+    },
+    {
+      "text": "T 15.12.2026 • 19:30\nJan Uuspõld - Varja",
+      "href": "/piletid/G6ST7T6M7T/jan-uuspold-varjatud-puudused",
+      "aria": null
+    },
+    {
+      "text": "L 21.11.2026 - P 29.11.2026\nIX varajase ",
+      "href": "/series/JYOVSWEPJT/ix-varajase-muusika-festival-tallinn-feat-reval",
+      "aria": null
+    },
+    {
+      "text": "R 13.11.2026 - R 19.02.2027\nHotell Viru ",
+      "href": "/series/BHYX4WQIGO/hotell-viru-ja-starlight-cabaret-esitlevad-revuulavastus-cinemania",
+      "aria": null
+    },
+    {
+      "text": "N 03.12.2026 • 19:00\nRiitused maailma ka",
+      "href": "/piletid/ZR25LN2NY7/riitused-maailma-katuselt-lobsang-chonzor",
+      "aria": null
+    },
+    {
+      "text": "R 02.10.2026 - K 31.03.2027\nKomöödiateat",
+      "href": "/series/NS3G26UYVJ/komoodiateatri-etendused-2026-2027",
+      "aria": null
+    },
+    {
+      "text": "L 28.11.2026 - P 29.11.2026\nKeelpillifoo",
+      "href": "/series/SCTXUFQLVT/keelpillifookus-vivaldi-aastaajad",
+      "aria": null
+    },
+    {
+      "text": "P 27.12.2026 - T 29.12.2026\nPidulik aast",
+      "href": "/series/BNTD3XTFXD/pidulik-aastavahetuse-gala",
+      "aria": null
+    },
+    {
+      "text": "Kõik",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Teatri Top",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Muusika Top",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Spordi Top",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Kogupere Top",
+      "href": "#",
+      "aria": null
+    },
+    {
+      "text": "Kinkekaartide Top",
+      "href": "#",
+      "aria": null
+    }
+  ]
+}

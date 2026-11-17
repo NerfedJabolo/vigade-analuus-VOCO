@@ -1,0 +1,15 @@
+{
+  "defect": "Koguse miinusnupp on 0 juures aktiivne, kuid ei tee midagi",
+  "decDisabled": false,
+  "beforeQty": "Täispilet 52,00 € 0",
+  "afterQty": "Täispilet 52,00 € 0",
+  "logs": [
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "HTTP 404 https://www.piletilevi.ee/api/v1/store/seat-map/9805",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "HTTP 404 https://www.piletilevi.ee/api/v1/store/seat-map/9805.svg",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "rahvaraamat",
+  "url": "https://www.rahvaraamat.ee/",
+  "status": 200,
+  "loadMs": 6412,
+  "metrics": {
+    "title": "Rahva Raamat | Raamatud, E-raamatud, E-lugerid, Filmid, Muusika",
+    "lang": "et",
+    "scrollWidth": 375,
+    "innerWidth": 375,
+    "images": 110,
+    "imgsNoAlt": 0,
+    "inputs": 13,
+    "unlabeled": 0,
+    "emptyLinks": 0,
+    "emptyButtons": 0,
+    "dupIds": [
+      "search"
+    ],
+    "bodyText": "Nõusolek Üksikasjad Teave Veebilehel on kasutatud küpsiseid Kasutame küpsiseid sisu ja reklaamide isikupärastamiseks, sotsiaalse meedia funktsioonide pakkumiseks ning liikluse analüüsimiseks. Edastame"
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failed": []
+}

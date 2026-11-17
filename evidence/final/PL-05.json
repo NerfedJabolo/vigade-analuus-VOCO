@@ -1,0 +1,14 @@
+{
+  "defect": "Filtri rakendamisel tekib URL-i duplikaatne date parameeter",
+  "url": "https://www.piletilevi.ee/search?query=kontsert&date=2026-11-17&date=2026-11-17&sortOrder=score&page=1",
+  "logs": [
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "HTTP 404 https://www.piletilevi.ee/api/v1/store/seat-map/9805",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "HTTP 404 https://www.piletilevi.ee/api/v1/store/seat-map/9805.svg",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

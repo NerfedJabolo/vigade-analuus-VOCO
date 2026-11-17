@@ -1,0 +1,89 @@
+{
+  "title": "Eraklient | Elisa Eesti",
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "unnamed": [
+    {
+      "tag": "cds-select",
+      "cls": "hydrated",
+      "href": "",
+      "html": "<cds-select container-element=\"CDS-DRAWER\" theme=\"{ &quot;fontColor&quot;: &quot;#273645&quot;, &quot;iconColor&quot;: &quot;#0019AF&quot; }\" style=\"max-width: "
+    }
+  ],
+  "imgsNoAlt": [],
+  "dupIds": [
+    "content",
+    "skip-to-main-content"
+  ],
+  "overflow": [
+    {
+      "tag": "eds-carousel-item",
+      "cls": "hydrated",
+      "right": 1648
+    },
+    {
+      "tag": "eds-banner",
+      "cls": "eds-h-100 hydrated",
+      "right": 1648
+    },
+    {
+      "tag": "eds-carousel-item",
+      "cls": "hydrated",
+      "right": 1960
+    },
+    {
+      "tag": "eds-banner",
+      "cls": "eds-h-100 hydrated",
+      "right": 1960
+    },
+    {
+      "tag": "eds-carousel-item",
+      "cls": "hydrated",
+      "right": 2272
+    },
+    {
+      "tag": "eds-banner",
+      "cls": "eds-h-100 hydrated",
+      "right": 2272
+    },
+    {
+      "tag": "eds-carousel-item",
+      "cls": "hydrated",
+      "right": 2584
+    },
+    {
+      "tag": "eds-banner",
+      "cls": "eds-h-100 hydrated",
+      "right": 2584
+    },
+    {
+      "tag": "eds-carousel-item",
+      "cls": "hydrated",
+      "right": 2584
+    },
+    {
+      "tag": "eds-banner",
+      "cls": "eds-h-100 hydrated",
+      "right": 2584
+    },
+    {
+      "tag": "eds-carousel-item",
+      "cls": "hydrated",
+      "right": 3832
+    },
+    {
+      "tag": "eds-banner",
+      "cls": "eds-h-100 hydrated",
+      "right": 3832
+    }
+  ],
+  "unlabeledInputs": [
+    {
+      "type": "text",
+      "id": "eds-input-native-0",
+      "name": "",
+      "placeholder": "Sisesta märksõna"
+    }
+  ],
+  "errors": []
+}

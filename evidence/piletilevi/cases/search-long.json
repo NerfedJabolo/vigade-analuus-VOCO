@@ -1,0 +1,14 @@
+{
+  "q": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "info": {
+    "url": "https://www.piletilevi.ee/search?query=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+    "text": "ET Kontakt Korraldajale Uudised Info: +372 6248 032 Vali riik Piletilevi kinkepilet Kõik Muusika Teater Sport Festivalid Kinkekaardid Kogupere Hingele PÖFF Muuseumid Otsi kaardilt Tulemused: Üritused 0 Korraldajad 0 Toimumiskohad 0 Uudised 0 “aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa” Toimumise aeg Asukohad Toimumiskohad 0 tulemust Asjakohasuse alusel Nende filtrite järgi sündmusi ei leitud Lähtesta filtrid Liitu uudiskirjaga Ole kursis värskete kultuuri- ja meelelahutussündmustega! Liitun Liitudes nõustud meie privaatsustingimustega. Jälgi meid: Korraldajale Reklaamiteenused Piletikontroll Tellimusleht Piletiprogramm (aruandlus) LOG",
+    "resultLine": "Tulemused: Üritused 0 Korraldajad 0 Toimumiskohad 0 Uudised 0 “aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "alert": []
+  },
+  "logs": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser.",
+    "RESP 200 https://www.piletilevi.ee/api/v1/search?query=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&language=et&page=1&pageSize=36&sortBy=score&sortOrder=DESC"
+  ]
+}

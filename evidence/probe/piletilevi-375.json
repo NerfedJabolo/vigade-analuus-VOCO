@@ -1,0 +1,112 @@
+{
+  "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+  "scrollWidth": 375,
+  "innerWidth": 375,
+  "unnamed": [
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-poin",
+      "href": "",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text-on-surface-dark\" aria-expande"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-poin",
+      "href": "",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text-on-surface-dark\" aria-expande"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-poin",
+      "href": "",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text-on-surface-dark\" aria-expande"
+    },
+    {
+      "tag": "button",
+      "cls": "inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-poin",
+      "href": "",
+      "html": "<button type=\"button\" class=\"inline-flex items-center gap-1 p-0 bg-transparent border-0 cursor-pointer font-bold text-body-md text-on-surface-dark\" aria-expande"
+    }
+  ],
+  "imgsNoAlt": [],
+  "dupIds": [],
+  "overflow": [
+    {
+      "tag": "div",
+      "cls": "swiper-slide overflow-hidden text-body-lg rounded-2xl flex f",
+      "right": 673
+    },
+    {
+      "tag": "div",
+      "cls": "sm:aspect-[22/7] relative w-full max-sm:aspect-[23/29]",
+      "right": 673
+    },
+    {
+      "tag": "a",
+      "cls": "block relative w-full h-full",
+      "right": 673
+    },
+    {
+      "tag": "img",
+      "cls": "absolute inset-0 block w-full h-full object-cover object-rig",
+      "right": 673
+    },
+    {
+      "tag": "div",
+      "cls": "single__fraction block absolute top-4 right-4 left-auto w-au",
+      "right": 657
+    },
+    {
+      "tag": "div",
+      "cls": "pt-4 px-4 pb-6 sm:p-8 bg-surface-dark",
+      "right": 673
+    },
+    {
+      "tag": "a",
+      "cls": "flex justify-between items-center text-on-surface-dark hover",
+      "right": 657
+    },
+    {
+      "tag": "div",
+      "cls": "opacity-100 transition-all duration-500 ease-in flex flex-co",
+      "right": 657
+    },
+    {
+      "tag": "div",
+      "cls": "h-5 flex items-center gap-4 sm:gap-8 min-w-0",
+      "right": 657
+    },
+    {
+      "tag": "span",
+      "cls": "flex items-center font-semibold text-body-sm sm:text-body-md",
+      "right": 523
+    },
+    {
+      "tag": "span",
+      "cls": "iconify i-plg:notepad-list w-3.5 h-3.5 mr-1.5 shrink-0",
+      "right": 383
+    },
+    {
+      "tag": "span",
+      "cls": "truncate",
+      "right": 523
+    }
+  ],
+  "unlabeledInputs": [
+    {
+      "type": "text",
+      "id": "",
+      "name": "searchInput",
+      "placeholder": "Otsi üritust, esinejat, toimumiskohta"
+    },
+    {
+      "type": "text",
+      "id": "v-0-4-1",
+      "name": "email",
+      "placeholder": "E-mail"
+    }
+  ],
+  "errors": [
+    "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

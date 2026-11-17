@@ -1,0 +1,212 @@
+[
+  {
+    "name": "automationexercise",
+    "url": "https://automationexercise.com/",
+    "status": 200,
+    "loadMs": 8212,
+    "metrics": {
+      "title": "Automation Exercise",
+      "lang": "en",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "images": 44,
+      "imgsNoAlt": 0,
+      "inputs": 291,
+      "unlabeled": 1,
+      "emptyLinks": 5,
+      "emptyButtons": 1,
+      "dupIds": [],
+      "bodyText": " Home  Products Cart Signup / Login Test Cases API Testing Video Tutorials Contact us AutomationExercise Full-Fledged practice website for Automation Engineers All QA engineer"
+    },
+    "consoleErrors": [
+      "Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS.",
+      "Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS.",
+      "Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS."
+    ],
+    "pageErrors": [],
+    "failed": [
+      "mixed-content http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100",
+      "mixed-content http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700",
+      "mixed-content http://fonts.googleapis.com/css?family=Abel"
+    ]
+  },
+  {
+    "name": "demoqa",
+    "url": "https://demoqa.com/",
+    "status": 200,
+    "loadMs": 6793,
+    "metrics": {
+      "title": "demosite",
+      "lang": "en",
+      "scrollWidth": 388,
+      "innerWidth": 375,
+      "images": 2,
+      "imgsNoAlt": 1,
+      "inputs": 0,
+      "unlabeled": 0,
+      "emptyLinks": 1,
+      "emptyButtons": 0,
+      "dupIds": [],
+      "bodyText": "Elements Forms Alerts, Frame & Windows Widgets Interactions Book Store Application © 2013-2026 TOOLSQA.COM | ALL RIGHTS RESERVED."
+    },
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failed": []
+  },
+  {
+    "name": "rahvaraamat",
+    "url": "https://www.rahvaraamat.ee/",
+    "status": 200,
+    "loadMs": 6412,
+    "metrics": {
+      "title": "Rahva Raamat | Raamatud, E-raamatud, E-lugerid, Filmid, Muusika",
+      "lang": "et",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "images": 110,
+      "imgsNoAlt": 0,
+      "inputs": 13,
+      "unlabeled": 0,
+      "emptyLinks": 0,
+      "emptyButtons": 0,
+      "dupIds": [
+        "search"
+      ],
+      "bodyText": "Nõusolek Üksikasjad Teave Veebilehel on kasutatud küpsiseid Kasutame küpsiseid sisu ja reklaamide isikupärastamiseks, sotsiaalse meedia funktsioonide pakkumiseks ning liikluse analüüsimiseks. Edastame"
+    },
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failed": []
+  },
+  {
+    "name": "piletilevi",
+    "url": "https://www.piletilevi.ee/",
+    "status": 200,
+    "loadMs": 6632,
+    "metrics": {
+      "title": "Piletilevi - Kontsert, teater, kunst, sport, festivalid, film – Piletid internetist - Piletilevi.ee - Piletilevi",
+      "lang": "et-EE",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "images": 161,
+      "imgsNoAlt": 0,
+      "inputs": 11,
+      "unlabeled": 2,
+      "emptyLinks": 1,
+      "emptyButtons": 10,
+      "dupIds": [],
+      "bodyText": "Nõusolek Üksikasjad Teave Sellel veebilehel kasutatakse küpsiseid AS Piletilevi PLG üksused kasutavad küpsiseid isikupärastatud teabe esitamiseks meie toodete ja teenuste kohta ja et parandada meie ve"
+    },
+    "consoleErrors": [
+      "Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+    ],
+    "pageErrors": [],
+    "failed": [
+      "net::ERR_BLOCKED_BY_ORB https://www.googletagmanager.com/gtag/js?id=G-5ZHYQRXF3L",
+      "net::ERR_BLOCKED_BY_ORB https://www.googletagmanager.com/gtag/js?id=G-5ZHYQRXF3L&cx=c&gtm=4e6bg0&sign=089e4075d1b8129491b219cad495bba3b1172381e461c8212a12b6d3f6076e46_20261117"
+    ]
+  },
+  {
+    "name": "elisa",
+    "url": "https://www.elisa.ee/",
+    "status": 200,
+    "loadMs": 7118,
+    "metrics": {
+      "title": "Eraklient | Elisa Eesti",
+      "lang": "et",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "images": 6,
+      "imgsNoAlt": 0,
+      "inputs": 6,
+      "unlabeled": 2,
+      "emptyLinks": 0,
+      "emptyButtons": 0,
+      "dupIds": [
+        "content",
+        "skip-to-main-content",
+        "block-elisa-content"
+      ],
+      "bodyText": "Liigu edasi põhisisu juurde Ligipääsetavus ET Eraklient Äriklient Põhisisu algus ERAKLIENDI AVALEHT Ostes Xiaomi 18 Pro või Xiaomi 18 Pro Max saad kaasa Mijia kapselkohvimasina. Elisa Raamat Elisa Ela"
+    },
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failed": []
+  },
+  {
+    "name": "city24",
+    "url": "https://www.city24.ee/",
+    "status": 200,
+    "loadMs": 8013,
+    "metrics": {
+      "title": "Kinnisvaraportaal City24.ee",
+      "lang": "et",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "images": 68,
+      "imgsNoAlt": 24,
+      "inputs": 23,
+      "unlabeled": 2,
+      "emptyLinks": 27,
+      "emptyButtons": 49,
+      "dupIds": [
+        ""
+      ],
+      "bodyText": "Lisa kuulutus Kinnisvaraportaal City24.ee Müük Üür Korter Maakond - AVA TÄPSEM OTSING OTSI Lemmikud Minu otsingud Lisa kuulutus Kliendipäevad Uusarendused Päring maakleritele Uudised Otsi maaklerit Ot"
+    },
+    "consoleErrors": [
+      "requestStorageAccess: Permission denied."
+    ],
+    "pageErrors": [],
+    "failed": [
+      "net::ERR_BLOCKED_BY_ORB https://static.img-city24.ee/user_logo/10/5669/3877635669.avif"
+    ]
+  },
+  {
+    "name": "eesti",
+    "url": "https://www.eesti.ee/",
+    "status": 200,
+    "loadMs": 6267,
+    "metrics": {
+      "title": "Eraisiku avaleht | Eesti.ee",
+      "lang": "et",
+      "scrollWidth": 375,
+      "innerWidth": 375,
+      "images": 41,
+      "imgsNoAlt": 0,
+      "inputs": 1,
+      "unlabeled": 0,
+      "emptyLinks": 0,
+      "emptyButtons": 0,
+      "dupIds": [],
+      "bodyText": "Liigu edasi põhisisu juurde Eesti.ee kasutab oma veebilehel küpsiseid Meie veebileht kasutab küpsiseid, et parandada veebilehe toimivust ja pakkuda personaalsemat kogemust. Lugege rohkem meie küpsist"
+    },
+    "consoleErrors": [
+      "Loading the script 'https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092' violates the following Content Security Policy directive: \"script-src-elem 'self' 'unsafe-inline' *.ria.ee *.eesti.ee *.rik.ee https://buerokratt.eesti.ee *.sotsiaalkindlustusamet.",
+      "Permissions policy violation: unload is not allowed in this document.",
+      "Failed to load resource: the server responded with a status of 400 ()",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Regular.8b51e90b.otf' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Regular.527b3866.woff2' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Regular.3247c6be.woff' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Bold.0cface4b.otf' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Bold.f3a3a2b8.woff2' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Bold.7e67db71.woff' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino-Headline.30f7b938.otf' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino-Headline.c5c73586.woff2' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked.",
+      "Loading the font 'https://buerokratt.eesti.ee/static/fonts/Aino-Headline.2a9940b2.woff' violates the following Content Security Policy directive: \"font-src 'self' data:\". The action has been blocked."
+    ],
+    "pageErrors": [],
+    "failed": [
+      "csp https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Regular.8b51e90b.otf",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Regular.527b3866.woff2",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Regular.3247c6be.woff",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Bold.0cface4b.otf",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Bold.f3a3a2b8.woff2",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino_31_170411-Bold.7e67db71.woff",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino-Headline.30f7b938.otf",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino-Headline.c5c73586.woff2",
+      "csp https://buerokratt.eesti.ee/static/fonts/Aino-Headline.2a9940b2.woff"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "defect": "Ostukorvi nupu aria-label on ingliskeelne",
+  "axName": "Shopping cart, 0 items in cart",
+  "cartDom": null,
+  "logs": [
+    "HTTP 404 https://www.elisa.ee/themes/elisa/assets/img/bg01.png",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "PAGEERROR Error: Syntax error, unrecognized expression: [name=]"
+  ]
+}

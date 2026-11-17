@@ -1,0 +1,99 @@
+{
+  "defect": "Ikoon-nuppudel/lingidel puudub ligipääsetav nimi",
+  "url": "https://www.piletilevi.ee/",
+  "unnamedCount": 26,
+  "unnamed": [
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/WPPOFAP4BO/eesti-muinasjutud-eesti-noorsooteater"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/checkout"
+    },
+    {
+      "role": "button",
+      "url": "",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "url": ""
+    },
+    {
+      "role": "button",
+      "url": "",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "url": ""
+    },
+    {
+      "role": "button",
+      "url": "",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "url": ""
+    },
+    {
+      "role": "button",
+      "url": "",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "url": ""
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/76S3T3VNLT/sulgpalli-voistkondlikud-euroopa-meistrivoistlused"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/piletid/OLY2XUPL2C/eesti-laul-2027"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/4NK3QELD3P/europeana-rakvere-teater"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/ZCBS2KWV3G/oskar-seemani-monolavastus-isadusest-refraan"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/VKQHHDOLOS/taavi-peterson-vaiki-kui-void-urmas-alender-73"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/2CJBMHEZOS/arsise-joulukontsert-hobedane-joulurapsoodia"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/CY6HJQVSW2/lavita-ibu-world-championships-biathlon-otepaa-2027"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/series/37T7YZDAI3/paul-neitsovi-joulukontsert-oo-kuunlavalgel"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/piletid/QKRFTYXFRU/estonian-voices-peale-puha-joulusoomaaega"
+    },
+    {
+      "role": "link",
+      "url": "https://www.piletilevi.ee/piletid/VATXB7UD53/nino-katamadze-and-band"
+    }
+  ],
+  "headerCart": {
+    "html": "<a href=\"/checkout\" class=\"leading-[0] hidden sm:block\" data-cy=\"shopping-cart\"><!--[--><!--[--><span data-state=\"closed\" data-grace-area-trigger=\"\" class=\"relative inline-flex leading-[0]\"><div data-slot=\"root\" class=\"justify-center shrink-0 relative inline-flex items-start leading-[0]\"><span class=\"iconify i-plg:shopping-cart text-on-surface hover:text-on-surface-brand\" aria-hidden=\"true\" style=",
+    "aria": null,
+    "text": ""
+  },
+  "logs": [
+    "CONSOLE Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser."
+  ]
+}

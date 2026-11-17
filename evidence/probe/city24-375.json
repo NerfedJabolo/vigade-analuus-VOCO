@@ -1,0 +1,253 @@
+{
+  "title": "Kinnisvaraportaal City24.ee",
+  "scrollWidth": 375,
+  "innerWidth": 375,
+  "unnamed": [
+    {
+      "tag": "a",
+      "cls": "header__item",
+      "href": "/favourites",
+      "html": "<a class=\"header__item\" href=\"/favourites\"><svg data-prefix=\"far\" data-icon=\"heart\" class=\"svg-inline--fa fa-heart \" role=\"img\" viewBox=\"0 0 512 512\" aria-hidde"
+    },
+    {
+      "tag": "button",
+      "cls": "header__item",
+      "href": "",
+      "html": "<button type=\"button\" class=\"header__item\"><svg data-prefix=\"far\" data-icon=\"bars\" class=\"svg-inline--fa fa-bars \" role=\"img\" viewBox=\"0 0 448 512\" aria-hidden="
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=43&utm_id=43&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=43&amp;utm_id=43&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=39&utm_id=39&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=39&amp;utm_id=39&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=35&utm_id=35&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=35&amp;utm_id=35&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=44&utm_id=44&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=44&amp;utm_id=44&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=50&utm_id=50&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=50&amp;utm_id=50&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=56&utm_id=56&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=56&amp;utm_id=56&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=50&utm_id=50&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=50&amp;utm_id=50&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=36&utm_id=36&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=36&amp;utm_id=36&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=35&utm_id=35&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=35&amp;utm_id=35&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=36&utm_id=36&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=36&amp;utm_id=36&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=47&utm_id=47&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=47&amp;utm_id=47&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=43&utm_id=43&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=43&amp;utm_id=43&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=47&utm_id=47&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=47&amp;utm_id=47&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=36&utm_id=36&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=36&amp;utm_id=36&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=35&utm_id=35&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=35&amp;utm_id=35&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=56&utm_id=56&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=56&amp;utm_id=56&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=50&utm_id=50&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=50&amp;utm_id=50&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=47&utm_id=47&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=47&amp;utm_id=47&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=37&utm_id=37&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=37&amp;utm_id=37&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=41&utm_id=41&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=41&amp;utm_id=41&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=57&utm_id=57&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=57&amp;utm_id=57&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "href": "https://www.city24.ee/valmismajad/?mid=56&utm_id=56&utm_camp",
+      "html": "<a class=\"object__image\" href=\"https://www.city24.ee/valmismajad/?mid=56&amp;utm_id=56&amp;utm_campaign=modularCampaign&amp;utm_source=city24&amp;utm_medium=web"
+    },
+    {
+      "tag": "button",
+      "cls": "btn btn--regular btn--icon ImageButtons_btn___Npzq",
+      "href": "",
+      "html": "<button type=\"button\" class=\"btn btn--regular btn--icon ImageButtons_btn___Npzq\"><svg data-prefix=\"far\" data-icon=\"heart\" class=\"svg-inline--fa fa-heart btn__ic"
+    }
+  ],
+  "imgsNoAlt": [
+    "ty24.lv/files/x/woi/rfthubi/xlolbnjolf/Estonian_Log_Cabins_Rooslepa_City24_1400x150_2x.jpg",
+    "https://ao.city24.lv/files/x/ooe/jiwnsrs/zipkgjphkj/Kysitlus_1150x50_et_(3).png",
+    "https://static.img-city24.ee/object/14/416b/modhouse75896956416b.avif",
+    "https://static.img-city24.ee/object/14/084f/modhouse426b2bc4084f.avif",
+    "https://static.img-city24.ee/object/14/4960/modhouse2193714e4960.avif",
+    "https://static.img-city24.ee/object/14/c1f4/modhousea3d21b41c1f4.avif",
+    "https://static.img-city24.ee/object/14/e66e/modhouse30d3f614e66e.avif",
+    "https://static.img-city24.ee/object/14/4fd1/modhouseb10123b74fd1.avif",
+    "https://static.img-city24.ee/object/14/013a/modhousebf3b0e3f013a.avif",
+    "https://static.img-city24.ee/object/14/0ca2/modhouse87d9cb9a0ca2.avif",
+    "https://static.img-city24.ee/object/14/4b20/modhouse7b9785564b20.avif",
+    "https://static.img-city24.ee/object/14/edd0/modhousefef725e2edd0.avif",
+    "https://static.img-city24.ee/object/14/b683/modhouse2b736323b683.avif",
+    "https://static.img-city24.ee/object/14/a850/modhouseb39b160ca850.avif",
+    "https://static.img-city24.ee/object/14/8467/modhouse864dd1c88467.avif",
+    "https://static.img-city24.ee/object/14/6395/modhousee5044fa56395.avif",
+    "https://static.img-city24.ee/object/14/4156/modhoused19eca174156.avif",
+    "https://static.img-city24.ee/object/14/f9e3/modhoused92b7d87f9e3.avif",
+    "https://static.img-city24.ee/object/14/2025/modhoused5d67d0d2025.avif",
+    "https://static.img-city24.ee/object/14/0dcc/modhousef2cb71cf0dcc.avif"
+  ],
+  "dupIds": [],
+  "overflow": [
+    {
+      "tag": "div",
+      "cls": "",
+      "right": 1400
+    },
+    {
+      "tag": "img",
+      "cls": "",
+      "right": 1400
+    },
+    {
+      "tag": "section",
+      "cls": "container container--center",
+      "right": 379
+    },
+    {
+      "tag": "a",
+      "cls": "",
+      "right": 377
+    },
+    {
+      "tag": "a",
+      "cls": "",
+      "right": 377
+    },
+    {
+      "tag": "a",
+      "cls": "",
+      "right": 377
+    },
+    {
+      "tag": "div",
+      "cls": "getapro-link",
+      "right": 377
+    },
+    {
+      "tag": "div",
+      "cls": "",
+      "right": 1150
+    },
+    {
+      "tag": "img",
+      "cls": "",
+      "right": 1150
+    },
+    {
+      "tag": "li",
+      "cls": "item-slider--mob__slide",
+      "right": 632
+    },
+    {
+      "tag": "div",
+      "cls": "object object--grid object--light",
+      "right": 632
+    },
+    {
+      "tag": "a",
+      "cls": "object__image",
+      "right": 632
+    }
+  ],
+  "unlabeledInputs": [
+    {
+      "type": "text",
+      "id": "",
+      "name": "",
+      "placeholder": "Otsi märksõna või objekti "
+    }
+  ],
+  "errors": [
+    "requestStorageAccess: Permission denied."
+  ]
+}

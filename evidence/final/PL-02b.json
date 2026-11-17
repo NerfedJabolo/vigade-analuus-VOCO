@@ -1,0 +1,21 @@
+{
+  "defect": "Uudiskirja vea korral ei liigu fookus väljale ega teatata veast live-regiooniga",
+  "active": {
+    "tag": "BUTTON",
+    "text": "Liitun",
+    "name": null
+  },
+  "email": {
+    "type": "text",
+    "ariaInvalid": "true",
+    "describedby": "v-0-4-1-error",
+    "labels": 0
+  },
+  "error": {
+    "id": "v-0-4-1-error",
+    "role": null,
+    "live": null,
+    "text": "Palun sisesta e-posti aadress korrektses vormingus: nimi@naide.ee",
+    "html": "<div id=\"v-0-4-1-error\" data-slot=\"error\" class=\"mt-1 mb-0 text-body-xs text-on-surface-error\">Palun sisesta e-posti aadress korrektses vormingus: nimi@naide.ee</div>"
+  }
+}

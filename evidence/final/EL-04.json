@@ -1,0 +1,16 @@
+{
+  "defect": "Duplikaatsed ID-d content ja skip-to-main-content",
+  "content": 1,
+  "skip": 1,
+  "contentHtml": [
+    "<div role=\"main\" id=\"content\">\n          <a class=\"e-wcag-only--selector e-wcag-only--style eds-visually-hidden focusable\" href=\"#\" id=\"skip-to-main-content\">Põ"
+  ],
+  "skipHtml": [
+    "<a class=\"e-wcag-only--selector e-wcag-only--style eds-visually-hidden focusable\" href=\"#\" id=\"skip-to-main-content\">Põhisisu algus</a>"
+  ],
+  "logs": [
+    "HTTP 404 https://www.elisa.ee/themes/elisa/assets/img/bg01.png",
+    "CONSOLE Failed to load resource: the server responded with a status of 404 ()",
+    "PAGEERROR Error: Syntax error, unrecognized expression: [name=]"
+  ]
+}

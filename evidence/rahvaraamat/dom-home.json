@@ -1,0 +1,458 @@
+{
+  "inputs": [
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "search",
+      "name": "search",
+      "placeholder": "Otsi raamatut, autorit, ISBNi, kategooriat, toodet...",
+      "aria": "Search",
+      "cls": "x-small-text styles_inputSearch__AAca3",
+      "w": 906
+    },
+    {
+      "tag": "input",
+      "type": "email",
+      "id": "email-_R_tlabrb99fivb_",
+      "name": "email",
+      "placeholder": "E-posti aadress",
+      "aria": "E-posti aadress",
+      "cls": "x-small-text styles_input__qSYRz",
+      "w": 684
+    },
+    {
+      "tag": "input",
+      "type": "checkbox",
+      "id": "agreePrivacyCheck",
+      "name": "agreePrivacyCheck",
+      "placeholder": "",
+      "aria": "[object Object] checkbox",
+      "cls": "styles_visuallyHidden__1_h0e",
+      "w": 1
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "aria": "Search",
+      "cls": "styles_button__Vc1E6 styles_searchIconButton__DnNRV"
+    },
+    {
+      "text": "",
+      "aria": "Basket",
+      "cls": "styles_button__Vc1E6"
+    },
+    {
+      "text": "Ostlema",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_primary__MTdB6 \n       \n "
+    },
+    {
+      "text": "",
+      "aria": "Previous slide",
+      "cls": "styles_customPrevButton__ZEkQb undefined"
+    },
+    {
+      "text": "",
+      "aria": "Next slide",
+      "cls": "styles_customNextButton__MetNQ"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n      s"
+    },
+    {
+      "text": "Leia lähim pood",
+      "aria": null,
+      "cls": "style_transparentButton__8t7mX"
+    },
+    {
+      "text": "Liitu",
+      "aria": "",
+      "cls": "styles_buttonWrapper__UymEt styles_secondary__CAuKN \n       "
+    },
+    {
+      "text": "",
+      "aria": "Open cookie settings widget",
+      "cls": "CookiebotWidget-logo"
+    }
+  ],
+  "links": [
+    {
+      "text": "Raamatupoed",
+      "href": "/et/poed"
+    },
+    {
+      "text": "Restoran Literaat",
+      "href": "https://www.literaat.ee"
+    },
+    {
+      "text": "Sündmused",
+      "href": "/et/sundmused"
+    },
+    {
+      "text": "Blogi",
+      "href": "https://blogi.rahvaraamat.ee/"
+    },
+    {
+      "text": "Minu soovid",
+      "href": "/et/user/wishlist"
+    },
+    {
+      "text": "Allahindlused",
+      "href": "/et/t/allahindlused"
+    },
+    {
+      "text": "",
+      "href": "/et"
+    },
+    {
+      "text": "Sisene",
+      "href": null
+    },
+    {
+      "text": "JÕULUD",
+      "href": "https://rahvaraamat.ee/et/t/kingipood"
+    },
+    {
+      "text": "Epp Maria",
+      "href": "https://rahvaraamat.ee/et/t/epp-maria-kokamagi"
+    },
+    {
+      "text": "E-raamatud",
+      "href": "/et/raamatud?productAvailabilityCodes=WEB&page=1&sort=-top&productType=EBOOK&language=et&openSearchResults=true"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/t/aasta-raamat"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/t/kingipood"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/tootenimekirjad/rahva-raamatu-kuu-raamatud?id=1254&page=1&per-page=20"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/t/aasta-raamat"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/t/kingipood"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/tootenimekirjad/rahva-raamatu-kuu-raamatud?id=1254&page=1&per-page=20"
+    },
+    {
+      "text": "",
+      "href": "https://rahvaraamat.ee/et/t/aasta-raamat"
+    },
+    {
+      "text": "Väikese hiire kaisukad",
+      "href": "https://rahvaraamat.ee/et/tootenimekirjad/vaike-hiir?id=1735"
+    },
+    {
+      "text": "Ingliskeelsed raamatud",
+      "href": "https://rahvaraamat.ee/et/t/ingliskeelsed-raamatud"
+    },
+    {
+      "text": "Advendikalendrid",
+      "href": "https://rahvaraamat.ee/et/tootenimekirjad/advendikalendrid?id=1158"
+    },
+    {
+      "text": "Kuula audioraamatuid!",
+      "href": "https://app.rahvaraamat.ee/"
+    },
+    {
+      "text": "Ostlema",
+      "href": "/et/tootenimekirjad/rahva-raamat-soovitab-jouludeks?id=845&page=1&per-page=20"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/lasteraamatud/nooremale-koolieale-vanus-7-9/lotte-sunnipaev/3073304"
+    },
+    {
+      "text": "Lotte sünnipäev",
+      "href": "/et/raamatud/lasteraamatud/nooremale-koolieale-vanus-7-9/lotte-sunnipaev/3073304"
+    },
+    {
+      "text": "Janno Põldma",
+      "href": "/et/autorid/janno-poldma?id=1499591"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/ilukirjandus/kaasaegne-ilukirjandus/seitse-vaikest-surmapattu/2920798"
+    },
+    {
+      "text": "Seitse väikest surmapattu",
+      "href": "/et/raamatud/ilukirjandus/kaasaegne-ilukirjandus/seitse-vaikest-surmapattu/2920798"
+    },
+    {
+      "text": "Susan Luitsalu",
+      "href": "/et/autorid/susan-luitsalu?id=1477964"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/ilukirjandus/kaasaegne-ilukirjandus/yesteryear/3085678"
+    },
+    {
+      "text": "Yesteryear",
+      "href": "/et/raamatud/ilukirjandus/kaasaegne-ilukirjandus/yesteryear/3085678"
+    },
+    {
+      "text": "Caro Claire Burke",
+      "href": "/et/autorid/caro-claire-burke?id=1864894"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/biograafiad-ja-memuaarid/muusika/vaikuse-helilooja/3090913"
+    },
+    {
+      "text": "Vaikuse helilooja",
+      "href": "/et/raamatud/biograafiad-ja-memuaarid/muusika/vaikuse-helilooja/3090913"
+    },
+    {
+      "text": "Twan Geurts",
+      "href": "/et/autorid/twan-geurts?id=2054693"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/ilukirjandus/luule/siin-helevalges-ajas-riimilised-luuletused/3085668"
+    },
+    {
+      "text": "Siin helevalges ajas. Riimilised luuletu",
+      "href": "/et/raamatud/ilukirjandus/luule/siin-helevalges-ajas-riimilised-luuletused/3085668"
+    },
+    {
+      "text": "Kristiina Ehin",
+      "href": "/et/autorid/kristiina-ehin?id=1473028"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/kokandus/tervislik-toitumine-ja-dieedid/elujoud-toidust/3085198"
+    },
+    {
+      "text": "Elujõud toidust",
+      "href": "/et/raamatud/kokandus/tervislik-toitumine-ja-dieedid/elujoud-toidust/3085198"
+    },
+    {
+      "text": "Liis Orav, ...",
+      "href": "/et/autorid/liis-orav?id=1498220"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/kunst/varia-200/suvise-tiigi-lummuses/3090952"
+    },
+    {
+      "text": "Suvise tiigi lummuses",
+      "href": "/et/raamatud/kunst/varia-200/suvise-tiigi-lummuses/3090952"
+    },
+    {
+      "text": "Hendrik Toompere Sen",
+      "href": "/et/autorid/hendrik-toompere-sen?id=2054709"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/lasteraamatud/nooremale-koolieale-vanus-10-12/emaraamat/3073196"
+    },
+    {
+      "text": "Emaraamat",
+      "href": "/et/raamatud/lasteraamatud/nooremale-koolieale-vanus-10-12/emaraamat/3073196"
+    },
+    {
+      "text": "Mika Keränen",
+      "href": "/et/autorid/mika-keranen?id=1491252"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/ajalugu-ja-poliitika/maailma-ajalugu/maffia-ulemaailmne-ajalugu/3090933"
+    },
+    {
+      "text": "Maffia: ülemaailmne ajalugu",
+      "href": "/et/raamatud/ajalugu-ja-poliitika/maailma-ajalugu/maffia-ulemaailmne-ajalugu/3090933"
+    },
+    {
+      "text": "Ryan Gingeras",
+      "href": "/et/autorid/ryan-gingeras?id=380506"
+    },
+    {
+      "text": "",
+      "href": "/et/raamatud/kultuur-ja-uhiskond/kultuurilugu/luhhike-oppetus-eesti-kultuurist/3073161"
+    },
+    {
+      "text": "Lühhike öppetus Eesti kultuurist",
+      "href": "/et/raamatud/kultuur-ja-uhiskond/kultuurilugu/luhhike-oppetus-eesti-kultuurist/3073161"
+    },
+    {
+      "text": "Tauno Vahter",
+      "href": "/et/autorid/tauno-vahter?id=1481234"
+    },
+    {
+      "text": "",
+      "href": "/et/mangud/lauamangud/lastemangud/lauamang-sipsik/2869625"
+    },
+    {
+      "text": "Lauamäng Sipsik",
+      "href": "/et/mangud/lauamangud/lastemangud/lauamang-sipsik/2869625"
+    },
+    {
+      "text": "",
+      "href": "/et/muusika/muusika/eesti-muusika/sadu-teine-vaatus-2026-digipak-cd/3082290"
+    },
+    {
+      "text": "Sadu - Teine vaatus (2026) Digipak CD",
+      "href": "/et/muusika/muusika/eesti-muusika/sadu-teine-vaatus-2026-digipak-cd/3082290"
+    },
+    {
+      "text": "Alusta vestlust 24/7",
+      "href": "#"
+    },
+    {
+      "text": "epood@rahvaraamat.ee",
+      "href": "mailto:epood@rahvaraamat.ee"
+    },
+    {
+      "text": "+372 640 6441",
+      "href": "tel:+372 640 6441"
+    },
+    {
+      "text": "Leia lähim pood",
+      "href": "/et/poed"
+    },
+    {
+      "text": "",
+      "href": "https://www.e-kaubanduseliit.ee/liidust/usaldusmargisega-e-poed-eestis"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/rahva.raamat/?utm_source=web&utm_medium=social&utm_campaign=instalogo"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/rahvaraamat?utm_source=web&utm_medium=social&utm_campaign=fblogo"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@rahvaraamat?utm_source=web&utm_medium=social&utm_campaign=tiktoklogo"
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/user/rahvaraamat?utm_source=web&utm_medium=social&utm_campaign=youtubelogo"
+    },
+    {
+      "text": "",
+      "href": "https://www.linkedin.com/company/rahva-raamat-as?utm_source=web&utm_medium=social&utm_campaign=linkedInlogo"
+    },
+    {
+      "text": "privaatsustingimustega",
+      "href": "https://rahvaraamat.ee/et/privaatsus"
+    },
+    {
+      "text": "Rahva Raamatust",
+      "href": "/et/meist"
+    },
+    {
+      "text": "Raamatupoed",
+      "href": "/et/poed"
+    },
+    {
+      "text": "Rahva Raamatu äpp",
+      "href": "https://app.rahvaraamat.ee/?utm_source=web&utm_medium=menu&utm_campaign=audiobooks"
+    },
+    {
+      "text": "Kirjastus",
+      "href": "/et/t/kirjastus"
+    },
+    {
+      "text": "Kontaktid",
+      "href": "/et/kontaktid"
+    },
+    {
+      "text": "Äriklient",
+      "href": "/et/ariklient"
+    },
+    {
+      "text": "Hulgiklient",
+      "href": "/et/hulgiklient"
+    },
+    {
+      "text": "Lojaalsusprogramm",
+      "href": "/et/t/lojaalsusprogramm"
+    },
+    {
+      "text": "Allahindlused",
+      "href": "/et/kampaaniad"
+    },
+    {
+      "text": "Tööpakkumised",
+      "href": "/et/toopakkumised"
+    },
+    {
+      "text": "Partnerid",
+      "href": "/et/t/partnerid"
+    },
+    {
+      "text": "KKK",
+      "href": "/et/kkk"
+    }
+  ]
+}
